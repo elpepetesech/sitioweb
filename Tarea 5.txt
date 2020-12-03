@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TAREA 5</title>
+
+<style>
+
+*{
+padding: 0;
+margin: 0;
+}
+h1{
+text-align: center;
+}
+.parteSocrates{
+background: #3d3dd4;
+padding: 15px;
+}
+.parteFilos{
+background: #43a043;
+padding: 15px;
+}
+.parteLoco{
+background: #e0e03c;
+padding: 15px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="parteSocrates"> 
+<h1>MENU</h1>
+</div>
+
+<div class="parteFilos">
+<div class="Filos1">
+<h1>CONTENIDO</h1>
+</div>
+
+<div class="parteLoco">
+<h1>PIE DE PÁGINA</h1>
+</div>
+
+
+</body>
+</html>
